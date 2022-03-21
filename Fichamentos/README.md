@@ -4,7 +4,7 @@
 
 2. [Breaking one barrier at a time: how women developers cope in a men-dominated industry](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Breaking%20one%20barrier%20at%20a%20time:%20how%20women%20developers%20cope%20in%20a%20men-dominated%20industry.md)
 
-3. Extending use-case point-based software effort estimation for Open Source freelance software development
+3. [Extending use-case point-based software effort estimation for Open Source freelance software development](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Extending%20use-case%20point-based%20software%20effort%20estimation%20for%20Open%20Source%20freelance%20software%20development.md)
 
 4. Predicting budget for Crowdsourced and Freelance Software development Projects
 
