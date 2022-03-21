@@ -2,7 +2,7 @@
 
 1. [Forming and Assessing Student Teams in Software Engineering Courses](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Forming%20and%20Assessing%20Student%20Teams%20in%20Software%20Engineering%20Courses.md)
 
-2. [Breaking one barrier at a time: how women developers cope in a men-dominated industry](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Breaking%20one%20barrier%20at%20a%20time:%20how%20women%20developers%20cope%20in%20a%20men-dominated%20industry)
+2. [Breaking one barrier at a time: how women developers cope in a men-dominated industry](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Breaking%20one%20barrier%20at%20a%20time:%20how%20women%20developers%20cope%20in%20a%20men-dominated%20industry.md)
 
 3. Extending use-case point-based software effort estimation for Open Source freelance software development
 
