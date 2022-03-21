@@ -1,4 +1,4 @@
-# Forming and Assessing Student Teams inSoftware Engineering Courses
+# Forming and Assessing Student Teams in Software Engineering Courses
 
 Løvold, Henrik & Lindsjørn, Yngve & Stray, Viktoria. (2020). Forming and Assessing Student Teams in Software Engineering Courses. doi: [10.1007/978-3-030-58858-8_31](https://doi.org/10.1007/978-3-030-58858-8_31)
 
