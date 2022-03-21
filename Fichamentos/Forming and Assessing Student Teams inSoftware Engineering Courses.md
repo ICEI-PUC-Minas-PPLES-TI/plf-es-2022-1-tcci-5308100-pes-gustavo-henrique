@@ -10,7 +10,7 @@ O artigo cita a importância do trabalho em equipe para o desenvolvimento de sof
 
 * _Trello_ é um aplicativo de gerenciamento de projeto baseado na web, utiliza o paradigma Kanban para gerenciamento de projetos (página 2).
 * _Kanban_ propõe o uso de cartões (post-its) para indicar e acompanhar o andamento da produção dentro da indústria. Trata-se de um sistema visual que busca gerenciar o trabalho conforme ele se move pelo processo (página 2).
-* _Slack_ Slack é uma plataforma de comunicação empresarial, incluindo salas de chat persistentes organizadas por tópico, grupos privados e mensagens diretas. (página 2).
+* _Slack_ é uma plataforma de comunicação empresarial, incluindo salas de chat persistentes organizadas por tópico, grupos privados e mensagens diretas. (página 2).
 * _SCRUM_ é uma estrutura para desenvolver, fornecer e sustentar produtos em um ambiente complexo, com ênfase inicial no desenvolvimento de software (página 2).
 
 ## 3. Fichamento de Citações 
