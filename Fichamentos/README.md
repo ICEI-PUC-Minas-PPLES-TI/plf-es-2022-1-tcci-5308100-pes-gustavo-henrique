@@ -1,38 +1,31 @@
 # Fichamentos
 
-Forming and Assessing Student Teams in Software Engineering Courses
+1. Forming and Assessing Student Teams in Software Engineering Courses
 
-Breaking one barrier at a time: how women developers cope in a men-dominated industry
+2. Breaking one barrier at a time: how women developers cope in a men-dominated industry
 
-Extending use-case point-based software effort estimation for Open Source freelance software development
+3. Extending use-case point-based software effort estimation for Open Source freelance software development
 
-Freelancers in the Software Development Process: A Systematic Mapping Study
+4. Freelancers in the Software Development Process: A Systematic Mapping Study
 
-SOFTWARE OUTSOURCING COST ESTIMATION MODEL (SOCEM). A SYSTEMATIC LITERATURE REVIEW PROTOCOL
+5. SOFTWARE OUTSOURCING COST ESTIMATION MODEL (SOCEM). A SYSTEMATIC LITERATURE REVIEW PROTOCOL
 
-An Empirical Investigation on Cost Estimation Challenges in Agile Software Development (ASD) Context
+6. An Empirical Investigation on Cost Estimation Challenges in Agile Software Development (ASD) Context
 
-An Update on Effort Estimation in Agile Software Development: A Systematic Literature Review
+7. An Update on Effort Estimation in Agile Software Development: A Systematic Literature Review
 
-Predicting budget for Crowdsourced and Freelance Software development Projects
+8. Predicting budget for Crowdsourced and Freelance Software development Projects
 
-Software Project Effort Estimation
+9. Software Project Effort Estimation
 
-Negative results for software effort estimation
+10. Negative results for software effort estimation
 
-SOFTWARE COST ESTIMATION
+11. SOFTWARE COST ESTIMATION
 
-Software Cost Estimation Methods: A Review 1
+12. Software Cost Estimation Methods: A Review 1
 
-Software cost estimation
+13. Software cost estimation
 
-Faat: freelance as a team
+14. Faat: freelance as a team
 
-CHAOS REPORT 2015
-
-
-1. [Template de Fichamento](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-ResearchTemplate/blob/master/Fichamentos/TemplateDeFichamento.md)
-2. [Outro fichamento]()
-
-
-...
+15. CHAOS REPORT 2015
