@@ -1,6 +1,6 @@
 # Fichamentos
 
-1. Forming and Assessing Student Teams in Software Engineering Courses
+1. [Forming and Assessing Student Teams in Software Engineering Courses](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Forming%20and%20Assessing%20Student%20Teams%20inSoftware%20Engineering%20Courses.md)
 
 2. Breaking one barrier at a time: how women developers cope in a men-dominated industry
 
