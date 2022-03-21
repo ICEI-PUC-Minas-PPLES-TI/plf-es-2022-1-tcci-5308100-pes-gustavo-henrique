@@ -6,26 +6,26 @@
 
 3. Extending use-case point-based software effort estimation for Open Source freelance software development
 
-4. Freelancers in the Software Development Process: A Systematic Mapping Study
+4. Predicting budget for Crowdsourced and Freelance Software development Projects
 
-5. SOFTWARE OUTSOURCING COST ESTIMATION MODEL (SOCEM). A SYSTEMATIC LITERATURE REVIEW PROTOCOL
+5. Faat: freelance as a team
 
-6. An Empirical Investigation on Cost Estimation Challenges in Agile Software Development (ASD) Context
+6. Freelancers in the Software Development Process: A Systematic Mapping Study
 
-7. An Update on Effort Estimation in Agile Software Development: A Systematic Literature Review
+7. SOFTWARE OUTSOURCING COST ESTIMATION MODEL (SOCEM). A SYSTEMATIC LITERATURE REVIEW PROTOCOL
 
-8. Predicting budget for Crowdsourced and Freelance Software development Projects
+8. An Empirical Investigation on Cost Estimation Challenges in Agile Software Development (ASD) Context
 
-9. Software Project Effort Estimation
+9. An Update on Effort Estimation in Agile Software Development: A Systematic Literature Review 
 
-10. Negative results for software effort estimation
+10. Software Project Effort Estimation
 
-11. SOFTWARE COST ESTIMATION
+11. Negative results for software effort estimation
 
-12. Software Cost Estimation Methods: A Review 1
+12. SOFTWARE COST ESTIMATION
 
-13. Software cost estimation
+13. Software Cost Estimation Methods: A Review 1
 
-14. Faat: freelance as a team
+14. Software cost estimation
 
 15. CHAOS REPORT 2015
