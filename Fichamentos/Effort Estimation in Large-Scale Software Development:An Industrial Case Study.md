@@ -1,6 +1,6 @@
-# An effective approach for software project effort and duration estimation with machine learning algorithms
+# Effort Estimation in Large-Scale Software Development:An Industrial Case Study
 
-Pospieszny, Przemek & Czarnacka-Chrobot, Beata & Kobyliński, Andrzej. (2017). An effective approach for software project effort and duration estimation with machine learning algorithms. Journal of Systems and Software. 137.  doi: [10.1016/j.jss.2017.11.066](https://doi.org/10.1016/j.jss.2017.11.066)
+Usman, Muhammad & Britto, Ricardo & Damm, Lars-Ola & Börstler, Jürgen. (2018). Effort Estimation in Large-Scale Software Development:An Industrial Case Study. Information and Software Technology. 99. doi: [10.1016/j.infsof.2018.02.009](https://doi.org/10.1016/j.infsof.2018.02.009)
 
 ## 1. Fichamento de Conteúdo
 
