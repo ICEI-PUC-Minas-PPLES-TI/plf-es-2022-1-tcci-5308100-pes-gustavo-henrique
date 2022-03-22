@@ -17,5 +17,5 @@ O artigo cita a importância do trabalho em equipe para o desenvolvimento de sof
 
 * _"We made it a rule that teams formed by the instructors should at least have two students of each gender, or otherwise be a single-gender team."_
 * _"Unsurprisingly, most students (68.7%) answered that their ambitions were to aim for grades A-B. About a third answered (31.3%) that they aimed at an average grade, and no students answered that they were happy about just passing the course."_
-* _"While Scrum was the process model most focused on in the lectures, this was not the most used process model among the teams.."_
+* _"While Scrum was the process model most focused on in the lectures, this was not the most used process model among the teams."_
 * _"Our results suggest that teams formed by the instructors intended to be as diverse as possible, do not necessarily perform better than teams formed by the students them selves."_
