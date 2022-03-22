@@ -8,7 +8,7 @@
 
 4. Predicting budget for Crowdsourced and Freelance Software development Projects
 
-5. Faat: freelance as a team
+5. Negative results for software effort estimation
 
 6. Freelancers in the Software Development Process: A Systematic Mapping Study
 
@@ -20,7 +20,7 @@
 
 10. Software Project Effort Estimation
 
-11. Negative results for software effort estimation
+11. Faat: freelance as a team
 
 12. SOFTWARE COST ESTIMATION
 
