@@ -6,15 +6,15 @@
 
 3. [Extending use-case point-based software effort estimation for Open Source freelance software development](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Extending%20use-case%20point-based%20software%20effort%20estimation%20for%20Open%20Source%20freelance%20software%20development.md)
 
-4. Predicting budget for Crowdsourced and Freelance Software development Projects
+4. [Predicting budget for Crowdsourced and Freelance Software development Projects](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Predicting%20budget%20for%20Crowdsourced%20and%20Freelance%20Software%20development%20Projects.md)
 
-5. Negative results for software effort estimation
+5. [Negative results for software effort estimation](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Negative%20results%20for%20software%20effort%20estimation.md)
 
-6. Freelancers in the Software Development Process: A Systematic Mapping Study
+6. [An Empirical Investigation on Cost Estimation Challenges in Agile Software Development (ASD) Context](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/An%20Empirical%20Investigation%20on%20Cost%20Estimation%20Challenges%20in%20Agile%20Software%20Development%20(ASD)%20Context.md)
 
 7. SOFTWARE OUTSOURCING COST ESTIMATION MODEL (SOCEM). A SYSTEMATIC LITERATURE REVIEW PROTOCOL
 
-8. An Empirical Investigation on Cost Estimation Challenges in Agile Software Development (ASD) Context
+8. Freelancers in the Software Development Process: A Systematic Mapping Study
 
 9. An Update on Effort Estimation in Agile Software Development: A Systematic Literature Review 
 
