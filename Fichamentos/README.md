@@ -10,7 +10,7 @@
 
 5. [Negative results for software effort estimation](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Negative%20results%20for%20software%20effort%20estimation.md)
 
-6. [An effective approach for software project effort and duration estimation with machine learning algorithms](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/An%20effective%20approach%20for%20software%20project%20effort%20and%20duration%20estimation%20with%20machine%20learning%20algorithms.md)
+6. [Effort Estimation in Large-Scale Software Development:An Industrial Case Study](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-tcci-5308100-pes-gustavo-henrique/blob/master/Fichamentos/Effort%20Estimation%20in%20Large-Scale%20Software%20Development:An%20Industrial%20Case%20Study.md)
 
 7. SOFTWARE OUTSOURCING COST ESTIMATION MODEL (SOCEM). A SYSTEMATIC LITERATURE REVIEW PROTOCOL
 
