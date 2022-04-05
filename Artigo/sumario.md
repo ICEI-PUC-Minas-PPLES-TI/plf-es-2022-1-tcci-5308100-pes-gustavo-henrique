@@ -1,18 +1,17 @@
 # Título do trabalho
 
-1. Nome do aluno 1
-1. Nome do aluno 2 (se houver)
+1. Gustavo Henrique Martins Vieira
 
 * Nome do orientador de conteúdo
 * Nome do orientador acadêmico
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é.... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. O problema que este trabalho busca resolver nessa área é... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Resolver este problema é relevante por que...
-1. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
+1. A área da Engenharia de Software tratada neste trabalho é estima de esforço de desenvolvimento de software
+1. O problema que este trabalho busca resolver nessa área é a indefinição sobre qual método de estimativa de esforço desenvolvedores freelancers devem usar
+1. Resolver este problema é relevante por que passar estimativas precisas para o cliente é importante
+1. O objetivo geral deste trabalho é descobrir dentre os modelos mais usados atualmente, qual é o mais indicado para cada nivel de desenvolvedor freelancer
+1. Os *três* objetivos específicos deste trabalho são descobrir quais os modelos mais indicados para desenvolvedores freenlancer, descobrir como desenvolvedores freelancer estimam seus projetos atualmente e descobrir qual a taxa de sucesso/fracasso dessas estimativas.
 
 ## Fundamentação Teórica
 
