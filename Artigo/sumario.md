@@ -7,7 +7,7 @@
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é estima de esforço de desenvolvimento de software
+1. A área da Engenharia de Software tratada neste trabalho é estimativa de esforço no desenvolvimento de software
 1. O problema que este trabalho busca resolver nessa área é a indefinição sobre qual método de estimativa de esforço desenvolvedores freelancers devem usar
 1. Resolver este problema é relevante por que passar estimativas precisas para o cliente é importante
 1. O objetivo geral deste trabalho é descobrir dentre os modelos mais usados atualmente, qual é o mais indicado para cada nivel de desenvolvedor freelancer
