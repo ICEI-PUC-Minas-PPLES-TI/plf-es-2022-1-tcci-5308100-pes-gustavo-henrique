@@ -1,6 +1,6 @@
-# Nome do projeto
+# Estimativa de Software: Análise das Técnicas e Experiências de Profissionais Freelancers.
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo deste trabalho é descobrir por meio de um questionário e de um experimento, quais são as técnicas de estimativa mais utilizada entre os desenvolvedores freelancers. Além disso, descobrir também como o tempo de experiência do desenvolvedor impacta na precisão dessa estimativa.
 
 ## Alunos integrantes da equipe
 
