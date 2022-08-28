@@ -3,6 +3,7 @@
 1. Gustavo Henrique Martins Vieira
 
 * Laerte Xavier
+* Rodrigo Baroni
 
 ## Introdução
 
