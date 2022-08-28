@@ -9,7 +9,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Professores responsáveis
 
 * Jose Laerte Pires Xavier Junior
-* Nome do orientador de TCC II
+* Rodrigo Baroni
 
 ## Instruções de Replicação/Reprodução
 
